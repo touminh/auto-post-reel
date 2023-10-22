@@ -1,6 +1,7 @@
 import { MemoryRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Index from './renderer/screen/Index';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function MainRouter() {
   return (
